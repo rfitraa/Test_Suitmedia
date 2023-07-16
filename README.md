@@ -44,4 +44,6 @@ The application makes use of various Android components and libraries to impleme
 |------------------------------|
 | <img src="https://github.com/rfttra/Test_Suitmedia/assets/99707014/f27194f7-c6bd-477d-92ba-1727bcb520ed" width="300"> |
 
+## Download the APK
+[Download the Application](https://drive.google.com/file/d/11JArgJsVTCh_JHY64Cgku1AwbfoN0Ekf/view)
 
